@@ -1,0 +1,28 @@
+a:link {
+    text-decoration: none;
+    color:black;
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color:violet;
+  }
+
+.navbar-brand
+{
+    position:static;
+    width: 50%;
+    right: 0;
+    margin:0 auto;
+}
+.navbar-toggle {
+    z-index:3;
+}
+
+.price {
+  content:"Price:";
+}
+.carousel-inner img{
+  width:50vw;
+  height:90vh;
+} 

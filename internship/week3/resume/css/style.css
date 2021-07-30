@@ -1,0 +1,103 @@
+
+    h3{font-family: Calibri; font-size: 22pt; 
+    font-style: normal; 
+    font-weight: bold;
+    color: slateBlack;
+    text-align: center; 
+    text-decoration: underline; }
+    .a{font-family: Calibri;
+        color: Black; 
+        font-size: 11pt;
+        font-style: normal;
+
+        
+       background: rgb(255, 255, 255);
+   background: linear-gradient(80deg, rgba(0,0,0,0.2985472530788845) 2%, rgba(0,0,0,0.5320244259304471) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#b02b2b",endColorstr="#9303ff",GradientType=1);
+       
+       
+        border-collapse: collapse; 
+        border: 2px solid navy;
+    }
+    
+    
+    h2{ background: #ffffff;}
+    .name img{
+        background: gray; 
+        float: right;
+        height: 150px; 
+        border-radius: 20px;
+    }
+    .name h1, a{ color: rgb(0, 0, 0); text-decoration: none; }
+    
+    
+   
+    
+    table
+    {
+        width: 600px;
+        height: 200px;
+        font-family: verdana;
+        
+        }
+    td
+    {
+        padding: 5px;
+        color: Black;
+        }
+    #heading{
+        color: black;
+        font-family: arial;
+        background-color: #ffffff;
+    }
+    
+    
+    #date{
+        font-family: verdana;
+        color: Black;
+        font-size: 20px;
+    }
+    #cap{
+         font-family: arial;
+        color: Black;
+        font-size: 14px;
+    }
+    
+    #dat{
+        font-family: arial;
+        color: Black;
+        font-size: 14px;
+        border: none;
+    }
+    
+    
+    #place{
+        font-family: arial;
+        color: black;
+        font-size: 14px;
+        border: none;
+        width: 500px;
+        height: 100px;
+    }
+    p{
+        color: #000000;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    
+    .name{
+        padding-left: 50px;
+    }
+    
+    img{
+        margin-right: 50px;
+        margin-top: -50px;
+    }
+    #sign{
+        width: auto;
+        margin-right: 0px;
+        margin-left: auto;
+    
+        position: absolute;
+    }
+    
